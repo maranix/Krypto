@@ -1,4 +1,4 @@
-package co.ayushd70.bitcoin_ticker;
+package co.ramanverma2k.bitcoin_ticker;
 
 import io.flutter.embedding.android.FlutterActivity;
 

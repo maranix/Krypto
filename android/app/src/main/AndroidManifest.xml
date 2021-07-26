@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.ayushd70.bitcoin_ticker">
+    package="co.ramanverma2k.bitcoin_ticker">
 
     <!-- Internet Permission to show currencies and values on start -->
     <uses-permission android:name="android.permission.INTERNET" />

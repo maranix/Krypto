@@ -38,7 +38,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "co.ayushd70.bitcoin_ticker"
+        applicationId "co.ramanverma2k.bitcoin_ticker"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode flutterVersionCode.toInteger()
